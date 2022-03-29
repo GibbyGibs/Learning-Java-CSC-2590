@@ -17,6 +17,8 @@ public class OutputCombinations {
                 + c + b + a);
 
         System.out.println("");
+
+        scnr.close();
     }
 }
 

@@ -15,5 +15,6 @@ public class DiceRoll {
 
         System.out.println(randGen.nextInt(15));
 
+        scnr.close();
     }
 }

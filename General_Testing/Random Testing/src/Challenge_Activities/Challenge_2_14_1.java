@@ -15,5 +15,6 @@ public class Challenge_2_14_1 {
         if (numPresses == 2 && letterToQuit == 'q')
             System.out.println("You have sucessfully quit");
 
+        scnr.close();
     }
 }
