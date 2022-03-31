@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "WeekTwo/This is to be determined/src/InClassActivities",
         "WeekOne/HelloWorld/src",
-        "General_Testing/Random Testing/src"
+        "General_Testing/Random Testing/src",
+        "WeekTwo/This is to be determined/src/Assignments"
     ]
 }
