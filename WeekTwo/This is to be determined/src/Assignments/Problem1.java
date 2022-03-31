@@ -52,6 +52,7 @@ public class Problem1 {
                 System.out.println("The sum is: " + total);
             }
         }
+        input.close();
 
     }
 }
