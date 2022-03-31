@@ -19,6 +19,8 @@ public class RightArrowHead {
         System.out.printf("\t\t %d%d\n", headChar, headChar);
         System.out.printf("\t\t %d\n", headChar);
         
+
+        scnr.close();
         
         /*
           ! Should look like this.
