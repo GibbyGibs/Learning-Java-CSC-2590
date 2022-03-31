@@ -35,9 +35,6 @@ public class Problem2 {
 
         double hoursWorked;
         double hourlyPay;
-        
-        
-
 
         System.out.println("Weekly Pay Calculator\n");
 
@@ -72,10 +69,6 @@ public class Problem2 {
             double noOvertotalPay = hoursWorked * hourlyPay;
             System.out.println("The employee's pay: " + noOvertotalPay);
         }
-
-
-
         input.close();
-
     }
 }
