@@ -1,3 +1,4 @@
+
 /**
 //***********************************************************************
 'Project: Assignment 1
@@ -29,26 +30,26 @@
 */
 import java.util.Scanner;
 
-
 public class Problem1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int userInput = input.nextInt();
+        int userInput;
         int total = 0;
         boolean quit = false;
 
-        while(quit){
-            System.out.println("Enter your number: ");
-            
+        while (quit != true) {
+            System.out.print("Enter your number: ");
+
             userInput = input.nextInt();
-            
-            if(userInput != -999){             
-                
-                userInput += total;
-            }
-            else if(userInput == -999){
+
+            if (userInput != -999) {
+
+                total += userInput;
+            } 
+            else if (userInput == -999) {
                 quit = true;
+                System.out.println("The sum is: " + total);
             }
         }
 
