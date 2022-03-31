@@ -8,22 +8,31 @@ public class RightArrowHead {
         int baseChar;
         int headChar;
 
-        /* Type your code here. */
+        baseChar = scnr.nextInt();
+        headChar = scnr.nextInt();
 
-
+        System.out.printf("\t\t %d\n", headChar);
+        System.out.printf("\t\t %d%d\n", headChar, headChar);
+        System.out.printf("\t    %d%d%d%d%d%d%d%d\n", baseChar, baseChar, baseChar, baseChar, baseChar, headChar, headChar, headChar);
+        System.out.printf("\t    %d%d%d%d%d%d%d%d%d\n", baseChar, baseChar, baseChar, baseChar, baseChar, headChar, headChar, headChar, headChar);
+        System.out.printf("\t    %d%d%d%d%d%d%d%d\n", baseChar, baseChar, baseChar, baseChar, baseChar, headChar, headChar, headChar);
+        System.out.printf("\t\t %d%d\n", headChar, headChar);
+        System.out.printf("\t\t %d\n", headChar);
+        
+        
         /*
-            ! Should look like this.
-
-             1
-             11
-        00000111
-        000001111
-        00000111
-             11
-             1
-
-
-
-        */
+          ! Should look like this.
+          
+               1
+               11
+          00000111
+          000001111
+          00000111
+               11
+               1
+          
+          
+          
+         */
     }
 }
