@@ -1,3 +1,5 @@
+package WeekThree.Week3.src.InClassActivities;
+
 public class ClassActivity2 {
     public static void main(String[] args) {
         calculateRetail(59.99, 10);

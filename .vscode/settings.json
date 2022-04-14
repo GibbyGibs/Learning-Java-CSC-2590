@@ -1,11 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "WeekTwo/This is to be determined/src/InClassActivities",
-        "WeekTwo/This is to be determined/src/Assignments",
-        "WeekThree/Tree/src/RandomTest",
-        "WeekThree/Tree/src/InClassActivities",
-        "WeekOne/HelloWorld/src",
+        "WeekThree/Week3/src/Labs",
+        "WeekFour/Week4/src/Labs",
         "General_Testing/Random Testing/src",
-        "WeekThree/Tree/src/Assignments"
-    ]
+        "WeekFour/Week4/src/Random Testing",
+        "."
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }

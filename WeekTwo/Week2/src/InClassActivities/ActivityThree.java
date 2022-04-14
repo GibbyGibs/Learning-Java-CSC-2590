@@ -1,3 +1,5 @@
+package WeekTwo.Week2.src.InClassActivities;
+
 import java.util.Scanner;
 
 public class ActivityThree {

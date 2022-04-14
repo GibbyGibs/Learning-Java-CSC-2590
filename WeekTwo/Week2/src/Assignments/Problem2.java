@@ -1,3 +1,5 @@
+package WeekTwo.Week2.src.Assignments;
+
 /**
 //***********************************************************************
 'Project: Assignment 1

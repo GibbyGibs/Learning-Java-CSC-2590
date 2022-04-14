@@ -1,3 +1,5 @@
+package WeekThree.Week3.src.InClassActivities;
+
 import java.util.Scanner;
 
 import java.io.*;

@@ -1,3 +1,5 @@
+package WeekOne.Week1.src;
+
 public class InClassAssignment1 {
     public static void main(String[] args) {
         

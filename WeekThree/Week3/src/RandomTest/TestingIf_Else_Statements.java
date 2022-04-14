@@ -1,3 +1,5 @@
+package WeekThree.Week3.src.RandomTest;
+
 import java.util.Scanner;
 
 public class TestingIf_Else_Statements {
