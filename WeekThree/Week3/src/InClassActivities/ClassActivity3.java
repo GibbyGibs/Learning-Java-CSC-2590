@@ -2,8 +2,6 @@ package WeekThree.Week3.src.InClassActivities;
 
 import java.util.Scanner;
 
-import java.io.*;
-
 import java.io.File;
 import java.io.IOException;
 
@@ -31,6 +29,8 @@ public class ClassActivity3 {
             }
         }while(name.isBlank() || name == null);
 
+
+        input.close();
         return name;
     }
     /**

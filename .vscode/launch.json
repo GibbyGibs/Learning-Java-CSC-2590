@@ -1,0 +1,378 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CAG_P01",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.Assignments.Problem1_6_Folder.CAG_P01",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch example4",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.ClassActivities.example4",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Challenge_2_14_1",
+            "request": "launch",
+            "mainClass": "Challenge_Activities.Challenge_2_14_1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiceRoll",
+            "request": "launch",
+            "mainClass": "Challenge_Activities.DiceRoll",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch OutputCombinations",
+            "request": "launch",
+            "mainClass": "Challenge_Activities.OutputCombinations",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeneralTesting",
+            "request": "launch",
+            "mainClass": "GeneralTesting",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterstateHighWays",
+            "request": "launch",
+            "mainClass": "InterstateHighWays",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingformattedMeasurements",
+            "request": "launch",
+            "mainClass": "PrintingformattedMeasurements",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Random1",
+            "request": "launch",
+            "mainClass": "Random1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestNumber",
+            "request": "launch",
+            "mainClass": "SmallestNumber",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingScanner",
+            "request": "launch",
+            "mainClass": "TestingScanner",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingScannerWithMultipleInputs",
+            "request": "launch",
+            "mainClass": "TestingScannerWithMultipleInputs",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "WeekFour.Week4.src.App",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(1)",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.App",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.HelloWorld",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InClassAssignment1",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.InClassAssignment1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch InClassAssignment2",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.InClassAssignment2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divide_Input_Integers",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.Divide_Input_Integers",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Expression_For_Calories_Burned_During_Workout",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.Expression_For_Calories_Burned_During_Workout",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrasingStrings",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.PrasingStrings",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightArrowHead",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.RightArrowHead",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleStatistics",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.SimpleStatistics",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsingMathMethods",
+            "request": "launch",
+            "mainClass": "WeekOne.Week1.src.Labs.UsingMathMethods",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(2)",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.App",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_6",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.Assignments.Problem1_6_Folder.Problem1_6",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2_6",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.Assignments.Problem2_6_Folder.Problem2_6",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch example1",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.ClassActivities.example1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch example2",
+            "request": "launch",
+            "mainClass": "WeekSix.Week6.src.ClassActivities.example2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch App(3)",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.App",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1_2",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.Assignments.Problem1_2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2_2",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.Assignments.Problem2_2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassActivity1",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.InClassActivities.ClassActivity1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassActivity2",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.InClassActivities.ClassActivity2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassActivity3",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.InClassActivities.ClassActivity3",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanBranchingStatements",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.BooleanBranchingStatements",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintingStringsInAlphabeticalOrd",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.PrintingStringsInAlphabeticalOrd",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringComparisonDetectWord",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.StringComparisonDetectWord",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingIf_Else_Statements",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.TestingIf_Else_Statements",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingSwitchStatements",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.TestingSwitchStatements",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestingSwitchStatements2",
+            "request": "launch",
+            "mainClass": "WeekThree.Week3.src.RandomTest.TestingSwitchStatements2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.Assignments.Problem1",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.Assignments.Problem2",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivittFive",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivittFive",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivityFour",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivityFour",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivityOne",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivityOne",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivitySeven",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivitySeven",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivitySix",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivitySix",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivityThree",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivityThree",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ActivityTwo",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.InClassActivities.ActivityTwo",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "WeekTwo.Week2.src.Test",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
+            "name": "Launch random2_4",
+            "request": "launch",
+            "mainClass": "random2_4",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        }
+    ]
+}
