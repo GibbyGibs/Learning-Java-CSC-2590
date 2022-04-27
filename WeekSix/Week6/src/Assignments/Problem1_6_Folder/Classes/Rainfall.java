@@ -1,6 +1,5 @@
 package WeekSix.Week6.src.Assignments.Problem1_6_Folder.Classes;
 
-
 public class Rainfall {
     private double[] inputRainfall = new double[12];
     private String[] months = new String[12];
@@ -101,6 +100,8 @@ public class Rainfall {
                 + "\nThe average rainfall fot this year is: " + averageRainFall(rain)
                 + "\nThe month with the highest amount of rain is " + monthMostRain(rain) + " with "
                 + monthWithMaxRain(rain) + " inches." + "\nThe month witht the lowest amount of rain is "
-                + monthleastRain(rain) + " with " + monthWithleastRain(rain) + " inches.\n"; // the last \n is to add a spacer at the end of the code
+                + monthleastRain(rain) + " with " + monthWithleastRain(rain) + " inches.\n"; // the last \n is to add a
+                                                                                             // spacer at the end of the
+                                                                                             // code
     }
 }

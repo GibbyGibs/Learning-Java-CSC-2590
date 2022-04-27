@@ -9,9 +9,9 @@ public class CAG_P01 {
 
         finishedTotal.settingMonths();
         finishedTotal.setinputRainfall(incomingRain);
-        
+
         System.out.print(finishedTotal.toString(incomingRain));
-        //finishedTotal.setinputRainfall(incomingRain);
+        // finishedTotal.setinputRainfall(incomingRain);
         // System.out.println(finishedTotal.monthWithleastRain(incomingRain));
         // System.out.println(test1);
         // test1(incomingRain);
