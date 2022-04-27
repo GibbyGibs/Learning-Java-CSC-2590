@@ -97,7 +97,7 @@ public class Rainfall {
         for (int i = 0; i < months.length; i++) {
             temp1 += String.format("%-10s          %.2f\n", months[i], inputRainfall[i]);
         }
-        return temp1 + "The total rainfall for this year is : " + totalRain(rain)
+        return temp1 + "\nThe total rainfall for this year is : " + totalRain(rain)
                 + "\nThe average rainfall fot this year is: " + averageRainFall(rain)
                 + "\nThe month with the highest amount of rain is " + monthMostRain(rain) + " with "
                 + monthWithMaxRain(rain) + " inches." + "\nThe month witht the lowest amount of rain is "
