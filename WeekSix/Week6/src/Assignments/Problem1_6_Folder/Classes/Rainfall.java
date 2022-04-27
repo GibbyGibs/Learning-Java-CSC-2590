@@ -1,8 +1,5 @@
 package WeekSix.Week6.src.Assignments.Problem1_6_Folder.Classes;
 
-import java.time.Month;
-
-import javax.sound.sampled.SourceDataLine;
 
 public class Rainfall {
     private double[] inputRainfall = new double[12];
@@ -96,19 +93,14 @@ public class Rainfall {
 
     public String toString(double[] rain) {
 
-        String temp1 = "Month               Rain\n";
+        String temp1 = "\nMonth               Rain\n"; // the \n is to add a spacer when the code prints to the terminal
         for (int i = 0; i < months.length; i++) {
             temp1 += String.format("%-10s          %.2f\n", months[i], inputRainfall[i]);
         }
-        System.out.printf("The total rainfall");
-        return temp1;
-    }
-
-    public void finalOutput(double[] rain) {
-        String temp2 = toString();
-        System.out.println(temp2);
-        System.out.printf("The total rainfall for this year is %d\n", totalRain(rain));
-        System.out.println("");
-
+        return temp1 + "The total rainfall for this year is : " + totalRain(rain)
+                + "\nThe average rainfall fot this year is: " + averageRainFall(rain)
+                + "\nThe month with the highest amount of rain is " + monthMostRain(rain) + " with "
+                + monthWithMaxRain(rain) + " inches." + "\nThe month witht the lowest amount of rain is "
+                + monthleastRain(rain) + " with " + monthWithleastRain(rain) + " inches.\n"; // the last \n is to add a spacer at the end of the code
     }
 }
