@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CAG_P01_7",
+            "request": "launch",
+            "mainClass": "WeekSeven.Week7.src.Assignments.CAG_P01_7",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
             "name": "Launch CAG_P01",
             "request": "launch",
             "mainClass": "WeekSix.Week6.src.Assignments.Problem1_6_Folder.CAG_P01",
