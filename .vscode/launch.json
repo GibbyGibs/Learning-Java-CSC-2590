@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CallPersonInfo",
+            "request": "launch",
+            "mainClass": "WeekSeven.Week7.src.Labs.CallPersonInfo",
+            "projectName": "Learning-Java CSC-2590_59c4ace5"
+        },
+        {
+            "type": "java",
             "name": "Launch CAG_P01_7",
             "request": "launch",
             "mainClass": "WeekSeven.Week7.src.Assignments.CAG_P01_7",
